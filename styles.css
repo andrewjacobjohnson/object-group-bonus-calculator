@@ -1,0 +1,26 @@
+
+#results {
+  color: black;
+  font-size: 18pt;
+  font-family: sans-serif;
+}
+
+body {
+  text-align: center;
+  background-color: lightgrey;
+}
+
+button {
+  width: 1000px;
+  height: 40px;
+  font-size: 20pt;
+  color:
+}
+
+span {
+  font-weight: bold;
+}
+
+.number {
+  color: darkred;
+}
